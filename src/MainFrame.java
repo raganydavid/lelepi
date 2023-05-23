@@ -1,5 +1,12 @@
-import javax.swing.JFrame;
+// File: MainFrame.java
+// Author: Ragány Dávid Gergő
+// Copyright: 2023, Ragány Dávid Gergő
+// Group: Szoft I-2-E
+// Date: 2023.05.23
+// Github: https://github.com/raganydavid/lelepi
+// Licenc: GNU GPL 
 
+import javax.swing.JFrame;
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;

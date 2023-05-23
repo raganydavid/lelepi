@@ -1,3 +1,12 @@
+// File: InputPanel.java
+// Author: Ragány Dávid Gergő
+// Copyright: 2023, Ragány Dávid Gergő
+// Group: Szoft I-2-E
+// Date: 2023.05.23
+// Github: https://github.com/raganydavid/lelepi
+// Licenc: GNU GPL 
+
+
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
 import javax.swing.JPanel;

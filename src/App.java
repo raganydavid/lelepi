@@ -1,3 +1,4 @@
+// File: App.java
 // Author: Ragány Dávid Gergő
 // Copyright: 2023, Ragány Dávid Gergő
 // Group: Szoft I-2-E
